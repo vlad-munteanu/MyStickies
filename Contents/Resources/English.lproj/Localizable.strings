@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ARRANGE</key>
+	<string>Arrange</string>
+	<key>BLUE_FOLDER</key>
+	<string>Blue</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CLOSE</key>
+	<string>Are you sure you want to discard this Stickies note?</string>
+	<key>CLOSE_BUTTON</key>
+	<string>close</string>
+	<key>COULDNT_OPEN_FILE</key>
+	<string>Couldn’t open note file %@.</string>
+	<key>CREATED_MODIFIED</key>
+	<string>Created: %@
+Modified: %@</string>
+	<key>Couldn't open Stickies note file %@.</key>
+	<string>Couldn’t open Stickies note %@.</string>
+	<key>Couldn't save document as %@.</key>
+	<string>Couldn’t save document as %@. Try using a different name.</string>
+	<key>DEMINIMIZE</key>
+	<string>Expand</string>
+	<key>DONT_SAVE</key>
+	<string>Delete Note</string>
+	<key>D_REPLACED</key>
+	<string>%d replaced</string>
+	<key>ELLIPSES</key>
+	<string>…</string>
+	<key>EMPTY_WINDOW_TITLE</key>
+	<string>Untitled</string>
+	<key>EXPORT</key>
+	<string>Export</string>
+	<key>EXPORT_ALL_CANCEL</key>
+	<string>Cancel</string>
+	<key>EXPORT_ALL_CONFIRM</key>
+	<string>Export All</string>
+	<key>EXPORT_ALL_DETAIL</key>
+	<string>Your Stickies will appear in an “Imported Notes” folder in the Notes application. Text formatting, links and pictures will be preserved. Notes will be organized into separate folders based on color.</string>
+	<key>EXPORT_ALL_TITLE</key>
+	<string>Export all Stickies to Notes?</string>
+	<key>EXPORT_DATE</key>
+	<string> • Date exported: %@</string>
+	<key>EXPORT_HELP</key>
+	<string>Notes are organized into separate folders based on color. Click on the folder with the color name to see all notes of that color.</string>
+	<key>EXPORT_SUMMARY_TITLE</key>
+	<string>Export From Stickies Summary</string>
+	<key>EXPORT_TOTAL</key>
+	<string> • Total notes exported: %d</string>
+	<key>FILE_SYSTEM_ERROR</key>
+	<string>File system error</string>
+	<key>GRAY_FOLDER</key>
+	<string>Gray</string>
+	<key>GREEN_FOLDER</key>
+	<string>Green</string>
+	<key>GROW_AREA</key>
+	<string>grow area</string>
+	<key>ILLEGAL_FILE</key>
+	<string>Illegal File Type</string>
+	<key>MINIMIZE</key>
+	<string>Collapse</string>
+	<key>MIN_BUTTON</key>
+	<string>minimize</string>
+	<key>NOT_FOUND</key>
+	<string>Not found</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PINK_FOLDER</key>
+	<string>Pink</string>
+	<key>PURPLE_FOLDER</key>
+	<string>Purple</string>
+	<key>Quit</key>
+	<string>Quit</string>
+	<key>Release 4 (v%s)</key>
+	<string>Release 4 (v%s)</string>
+	<key>Review Unsaved</key>
+	<string>Review Unsaved</string>
+	<key>SAVE</key>
+	<string>Save…</string>
+	<key>STICKIE_BEEN_EDITED_SAVE?</key>
+	<string>If you don’t save this note, its contents will be lost.</string>
+	<key>UNKNOWN_COLOR_FOLDER</key>
+	<string>Unknown Color</string>
+	<key>UNTITLED</key>
+	<string>Untitled</string>
+	<key>YELLOW_FOLDER</key>
+	<string>Yellow</string>
+	<key>You have unsaved document notes.</key>
+	<string>You have unsaved notes.</string>
+	<key>ZOOM_BUTTON</key>
+	<string>zoom</string>
+</dict>
+</plist>
